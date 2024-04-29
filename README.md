@@ -1,12 +1,17 @@
 ### Hi there 👋
 
 <h1 align="center">Hello, I'm Boluwatife!</h1>
-🚀 A graduate passionate about frontend and backend development, creating sleek and user-friendly interfaces as well as robust server-side applications that bring ideas to life. I specialize in turning concepts into visually stunning and highly functional web applications, with a strong focus on both client and server-side technologies.
-🔭 Currently crafting [News ROOM Web](link to project), a dynamic platform to keep you updated with the latest news.
-🌱 On a journey to master Typescript, enhancing my skillset to build more efficient and scalable applications.
-👨‍💻 Check out my captivating portfolio at [Portfolio link](Portfolio link) to explore my diverse projects.
-📫 Reach out to me at morolaribolu@gmail.com to discuss opportunities or just say hi!
-📄 Learn more about my journey and experiences [here](This is the link).
+<h3 align="center">A graduate passionate about frontend and backend development, creating sleek and user-friendly interfaces as well as robust server-side applications that bring ideas to life. I specialize in turning concepts into visually stunning and highly functional web applications, with a strong focus on both client and server-side technologies. </h3> 
+
+- 🔭 Currently crafting [News ROOM Web](link to project), a dynamic platform to keep you updated with the latest news.
+  
+- 🌱 On a journey to master Typescript, enhancing my skillset to build more efficient and scalable applications.
+
+- 👨‍💻 Check out my captivating portfolio at [Portfolio link](Portfolio link) to explore my diverse projects.
+
+- 📫 Reach out to me at morolaribolu@gmail.com to discuss opportunities or just say hi!
+
+- 📄 Learn more about my journey and experiences [here](This is the link).
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- Add social media links/icons here -->
