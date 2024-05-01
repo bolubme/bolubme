@@ -11,7 +11,7 @@
 
 - 📫 Reach out to me at morolaribolu@gmail.com to discuss opportunities or just say hi!
 
-- 📄 Learn more about my journey and experiences [here](This is the link).
+- 📄 Learn more about me this is my cv below [here](https://bmecv-white.netlify.app/).
 <p align="left">
 <!-- Add social media links/icons here -->
 </p>
