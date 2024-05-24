@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hello, I'm Boluwatife!</h1>
+<h1 align="center">Hello, I'm Bolu!</h1>
 <h3 align="left">A graduate passionate about frontend and backend development, creating sleek and user-friendly interfaces as well as robust server-side applications that bring ideas to life. I specialize in turning concepts into visually stunning and highly functional web applications, with a strong focus on both client and server-side technologies. </h3> 
 
 - 🔭 Currently crafting [News ROOM Web](http://firstnewstest.s3-website-us-east-1.amazonaws.com/), a dynamic platform to keep you updated with the latest news.
