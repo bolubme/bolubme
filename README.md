@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 <h1 align="center">Hello, I'm Bolu!</h1>
-<h3 align="left">A graduate passionate about frontend and backend development, creating sleek and user-friendly interfaces as well as robust server-side applications that bring ideas to life. I specialize in turning concepts into visually stunning and highly functional web applications, with a strong focus on both client and server-side technologies. </h3> 
+<h3 align="left">
+I'm a software engineer passionate about building innovative, efficient, and reliable applications. I enjoy turning ideas into practical solutions, creating both user-friendly interfaces and robust systems that make an impact. My focus spans across multiple technologies and domains, allowing me to craft high-quality software end-to-end.
+</h3>
   
 - 🌱 On a journey to master Typescript, enhancing my skillset to build more efficient and scalable applications.
 
-- 👨‍💻 Check out my captivating portfolio at [Portfolio link](Portfolio link) to explore my diverse projects.
+- 👨‍💻 Check out my captivating portfolio at [Portfolio link](https://portfolioupdates.vercel.app/) to explore my diverse projects.
 
 - 📫 Reach out to me at morolaribolu@gmail.com to discuss opportunities or just say 
 
