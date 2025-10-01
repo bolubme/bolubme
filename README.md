@@ -7,7 +7,7 @@ I'm a software engineer passionate about building innovative, efficient, and rel
   
 - 🌱 On a journey to master Typescript, enhancing my skillset to build more efficient and scalable applications.
 
-- 👨‍💻 Check out my captivating portfolio at [Portfolio link](https://portfolioupdates.vercel.app/) to explore my diverse projects.
+- 👨‍💻 Check out my captivating portfolio at [Portfolio link](https://bolubme.vercel.app/) to explore my diverse projects.
 
 - 📫 Reach out to me at morolaribolu@gmail.com to discuss opportunities or just say 
 
